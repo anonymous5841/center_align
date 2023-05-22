@@ -14,9 +14,13 @@
     padding-right: 1cm;
     padding-top: 0.5cm;
     padding-bottom: 0.5cm;
+    float: left;
+    margin-top: 45vh;
+    
 }
 #c1
 {
-    margin-top: 50vh;
+    margin-top: 45vh;
     margin-left: 13cm;
+    
 }
